@@ -11,3 +11,7 @@ Final Results:
 
 
 
+GUI Example:
+
+
+![t1](https://github.com/vincentkipchoge/8puzzle-AI-algorithms-implementation/assets/100973751/914baac2-06ac-46c5-81a5-99dc3743ed53)
